@@ -1,17 +1,21 @@
 <template>
-    <section class="relative w-full bg-gray-900 text-white overflow-hidden px-4 font-mono py-2">
-        <div class="flex flex-col md:flex-row items-center justify-center gap-8 max-w-6xl mx-auto ">
+    <section class="relative w-full bg-gray-900 text-white overflow-hidden px-4 font-mono py-">
+        <div class="flex flex-col md:flex-row items-center justify-center gap-8 max-w-6xl mx-auto">
 
             <div class="max-w-full h-100 bg-gray-800 rounded-2xl overflow-hidden shadow-2xl">
-                <p class="prose prose-sm whitespace-pre-line text-gray-200 sm:prose-base p-8">
-                    I am an athlete at heart with
-                    an entrepreneurial spirit, a knack for online security, and a passion for coding. Born in a small
-                    town in Northern BC, I made my move to Victoria where I work as a full stack developer for Instant
-                    Domains, alongside my many ongoing projects.
-
-                    Outside of work I am an avid motorcyclist, soccer player and Muay Thai fighter. I love to travel and
-                    lead a fairly nomadic lifestyle. I built much of my early portfolio from beaches of Southeast Asia
-                    and dream of taking my work with me while traveling the world.
+                <p class="prose prose-sm whitespace-pre-line text-gray-200 sm:prose-base p-6">
+                    Meu nome é Kelder da Silva, sou formado em Análise e Desenvolvimento de Sistemas e atuo
+                    como Desenvolvedor Full Stack.
+                    Tenho experiência com <strong class="text-white">Java, Spring Boot, Vue.js e OracleSQL</strong>.
+                    Atualmente, também sou gestor de equipe, coordenando tarefas, projetos e
+                    treinamentos, além de integrar APIs e gerenciar infraestrutura na Oracle Cloud Infrastructure
+                    (OCI).
+                    <br>
+                    <br>
+                    Fora do trabalho gosto de fazer trilhas, jogar alguns games, estudar sobre Programação, ver eventos
+                    de carros, etc. Atualmente estou me dedicando para
+                    pós-graduação em <strong class="text-white">Engenharia de Software</strong> e buscando novos desafios 
+                    para adquirir mais conhecimentos e experiência na área.
                 </p>
 
                 <ul class="grid grid-cols-1 gap-4 lg:grid-cols-2 p-8">
@@ -56,7 +60,7 @@
                             </path>
                         </svg>
                         <span class="text-xs font-bold text-white sm:text-sm">Interesses:</span>
-                        <span class=" text-xs text-gray-200 sm:text-sm">Games, Carros, Animes</span>
+                        <span class=" text-xs text-gray-200 sm:text-sm">Games, Carros, Séries</span>
                     </li>
 
                     <li class="col-span-1 flex items-start gap-x-2">

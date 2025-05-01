@@ -13,11 +13,11 @@
       </div>
 
       <div class="w-full grow pb-6 ">
-        <section class="py-12" id="hero">
+        <section class="py-6" id="hero">
           <HeroSection></HeroSection>
         </section>
 
-        <section class="py-10" id="about">
+        <section class="py-6" id="about">
           <div class="px-8 hidden lg:block">
             <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
               style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
@@ -27,6 +27,17 @@
 
           <AboutSection></AboutSection>
         </section>
+
+        <section class="py-6" id="techStack">
+          <div class="px-8 hidden lg:block">
+            <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
+              style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
+              <span class="font-brand-primary text-green-700">Tec</span>h stack
+            </h2>
+          </div>
+
+          <TechStackSection></TechStackSection>
+        </section>
       </div>
     </div>
   </div>
@@ -35,10 +46,11 @@
 <script>
 import HeroSection from './components/HeroSection.vue';
 import AboutSection from './components/AboutSection.vue';
+import TechStackSection from './components/TechStackSection.vue';
 
 export default {
   components: {
-    HeroSection, AboutSection
+    HeroSection, AboutSection, TechStackSection
   }
 }
 </script>
