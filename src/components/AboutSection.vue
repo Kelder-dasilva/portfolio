@@ -1,8 +1,7 @@
 <template>
-    <section class="relative w-full bg-gray-900 text-white overflow-hidden px-4 font-mono py-">
-        <div class="flex flex-col md:flex-row items-center justify-center gap-8 max-w-6xl mx-auto">
-
-            <div class="max-w-full h-100 bg-gray-700 rounded-2xl overflow-hidden shadow-2xl">
+    <section class="relative w-full bg-gray-900 text-white px-4 font-mono">
+        <div class="flex flex-col gap-8 max-w-6xl mx-auto">
+            <div class="w-full max-w-6xl bg-gray-700 rounded-2xl overflow-hidden shadow-2xl">
                 <p class="prose prose-sm whitespace-pre-line text-gray-200 sm:prose-base p-6">
                     Meu nome é Kelder da Silva, sou formado em Análise e Desenvolvimento de Sistemas e atuo
                     como Desenvolvedor Full Stack.
@@ -14,11 +13,12 @@
                     <br>
                     Fora do trabalho gosto de fazer trilhas, jogar alguns games, estudar sobre Programação, ver eventos
                     de carros, etc. Atualmente estou me dedicando para
-                    pós-graduação em <strong class="text-white">Engenharia de Software</strong> e buscando novos desafios 
+                    pós-graduação em <strong class="text-white">Engenharia de Software</strong> e buscando novos
+                    desafios
                     para adquirir mais conhecimentos e experiência na área.
                 </p>
 
-                <ul class="grid grid-cols-1 gap-4 lg:grid-cols-2 p-8">
+                <ul class="grid grid-cols-1 gap-4 sm:grid-cols-2 p-8">
                     <li class="col-span-1 flex items-start gap-x-2">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                             stroke="currentColor" aria-hidden="true" data-slot="icon" class="size-5 text-white">

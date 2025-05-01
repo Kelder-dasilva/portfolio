@@ -18,7 +18,7 @@
         </section>
 
         <section class="py-6" id="about">
-          <div class="px-8 hidden lg:block">
+          <div class="px-8">
             <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
               style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
               <span class="font-brand-primary text-green-700">Abo</span>ut me
@@ -29,7 +29,7 @@
         </section>
 
         <section class="py-6" id="techStack">
-          <div class="px-8 hidden lg:block">
+          <div class="px-8">
             <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
               style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
               <span class="font-brand-primary text-green-700">Tec</span>h stack
@@ -40,7 +40,7 @@
         </section>
 
         <section class="py-6" id="work">
-          <div class="px-8 hidden lg:block">
+          <div class="px-8">
             <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
               style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
               <span class="font-brand-primary text-green-700">Wor</span>k
@@ -50,12 +50,12 @@
           <WorkSection></WorkSection>
         </section>
 
-        <section class="py-4 bg-striped-background bg-neutral-800 bg-cover bg-no-repeat" id="education">
+        <section class="py-6 bg-striped-background bg-neutral-800 bg-cover bg-no-repeat" id="education">
           <EducationAndExperienceSection></EducationAndExperienceSection>
         </section>
 
         <section class="py-6 bg-striped-background bg-neutral-800 bg-cover bg-no-repeat" id="contact">
-          <div class="px-8 hidden lg:block">
+          <div class="px-8">
             <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
               style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
               <span class="font-brand-primary text-green-700">Con</span>tato
