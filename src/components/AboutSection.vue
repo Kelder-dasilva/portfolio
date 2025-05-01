@@ -2,7 +2,7 @@
     <section class="relative w-full bg-gray-900 text-white overflow-hidden px-4 font-mono py-">
         <div class="flex flex-col md:flex-row items-center justify-center gap-8 max-w-6xl mx-auto">
 
-            <div class="max-w-full h-100 bg-gray-800 rounded-2xl overflow-hidden shadow-2xl">
+            <div class="max-w-full h-100 bg-gray-700 rounded-2xl overflow-hidden shadow-2xl">
                 <p class="prose prose-sm whitespace-pre-line text-gray-200 sm:prose-base p-6">
                     Meu nome é Kelder da Silva, sou formado em Análise e Desenvolvimento de Sistemas e atuo
                     como Desenvolvedor Full Stack.

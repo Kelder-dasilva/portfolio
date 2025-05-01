@@ -7,7 +7,7 @@
                     alt="Foto de perfil" class="w-full h-full object-cover" />
             </div>
 
-            <div class="bg-gray-800 p-8 rounded-2xl shadow-2xl md:ml-[-60px] max-w-md w-full md:mt-0">
+            <div class="bg-gray-700 p-8 rounded-2xl shadow-2xl md:ml-[-60px] max-w-md w-full md:mt-0">
                 <div class="mb-2 flex w-full flex-wrap items-center gap-y-2">
                     <h1 class="mr-4 w-max text-3xl font-black text-white">Kelder da Silva</h1>
                     <div class="flex gap-x-6 sm:gap-x-3">
@@ -52,8 +52,10 @@
 
                 <div class="flex space-x-2">
                     <a class="flex rounded-full border-2  bg-stone-900 px-4 py-2 text-sm font-medium text-white shadow-md outline-none hover:bg-stone-800 focus:ring-2  focus:ring-offset-2 focus:ring-offset-stone-800 border-green-800 focus:ring-green-800"
-                        href="/assets/Curriculo.pdf"> Currículo
+                        href="/public/assets/Curriculo.pdf" download="Curriculo-Kelder.pdf">
+                        Currículo
                     </a>
+
                     <a class="flex rounded-full border-2  bg-stone-900 px-4 py-2 text-sm font-medium text-white shadow-md outline-none hover:bg-stone-800 focus:ring-2  focus:ring-offset-2 focus:ring-offset-stone-800 border-stone-300 focus:ring-stone-300"
                         href="#contact">
                         Contato
