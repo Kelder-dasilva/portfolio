@@ -19,7 +19,7 @@
 
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
               <h2 class="font-bold text-white">Tecnólogo em Ánalise e Des. de Sistemas</h2>
-              <p class=" text-gray-300">Aqui, cursei Análise e Desenvolvimento de Sistemas na UDF, onde aprofundei meus
+              <p class=" text-gray-300">Aprofundei meus
                 conhecimentos teóricos e práticos sobre desenvolvimento de software, arquitetura de sistemas e
                 infraestrutura de aplicações. Durante esse período, tive contato com fundamentos sólidos da programação,
                 estrutura de dados e lógica computacional, o que me permitiu entender com mais clareza os bastidores de
@@ -39,8 +39,7 @@
             </div>
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
               <h2 class="font-bold text-white">Pós-graduação em Engenharia de Software</h2>
-              <p class=" text-gray-300">Atualmente, estou cursando Pós-Graduação em Engenharia de Software na UDF,
-                iniciada em abril de 2025. Nessa nova etapa acadêmica, estou aprofundando meus conhecimentos em
+              <p class=" text-gray-300">Nessa nova etapa acadêmica, estou aprofundando meus conhecimentos em
                 arquitetura de software, padrões de projeto, engenharia de requisitos, DevOps e segurança de aplicações.
                 A proposta do curso é formar profissionais com visão estratégica e capacidade de estruturar sistemas
                 escaláveis, seguros e bem planejados, e isso tem ampliado significativamente minha visão técnica e de
@@ -63,8 +62,8 @@
             </div>
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
               <h2 class="font-bold text-white">Pós-graduação em Tecnologias e Desenvolvimento Web e Mobile</h2>
-              <p class=" text-gray-300">Também estou cursando Tecnologias e Desenvolvimento Web e Mobile na UDF, uma
-                especialização voltada para o desenvolvimento de aplicações modernas, responsivas e escaláveis. O curso
+              <p class=" text-gray-300">Uma especialização voltada para o desenvolvimento de aplicações modernas,
+                responsivas e escaláveis. O curso
                 reforça práticas de desenvolvimento ágil, integração de APIs e uso de frameworks atuais, alinhando
                 teoria e prática para soluções web e mobile eficientes.
               </p>
@@ -91,8 +90,8 @@
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
               <h2 class="font-bold text-white">Gestor de Equipe | Desenvolvedor Full Stack</h2>
               <p class="text-gray-300">
-                Atualmente atuo como Gestor de Equipe e Desenvolvedor Full Stack, sendo responsável pela gestão de
-                tarefas, projetos e treinamentos, além do desenvolvimento e manutenção de sistemas internos para áreas
+                Responsável pela gestão de tarefas, projetos e treinamentos, além do desenvolvimento e manutenção de
+                sistemas internos para áreas
                 como compras, contabilidade e RH. Realizo integrações com APIs (ERP Sankhya, AWS S3, OCI) e gerencio a
                 infraestrutura na Oracle Cloud Infrastructure (OCI). Também participo de reuniões técnicas, levantamento
                 de requisitos e implemento melhorias contínuas em processos e sistemas.
@@ -119,7 +118,7 @@
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
               <h2 class="font-bold text-white">Estagiário</h2>
               <p class=" text-gray-300">
-                Atuei como estagiário de desenvolvimento, trabalhando com JavaScript, Java, Bootstrap e SQL Server no
+                Trabalhando com JavaScript, Java, Bootstrap e SQL Server no
                 suporte e manutenção de sistemas internos, como controle de ponto e RH, além de realizar atualizações em
                 componentes e funcionalidades da empresa.
               </p>

@@ -37,8 +37,8 @@
                 </div>
 
                 <p class="prose mb-4 text-gray-200">
-                    Eu sou um <strong class="text-white">Desenvolvedor Full Stack</strong>,
-                    atualmente trabalho no <strong class="text-white">Lake Side Apart</strong> atuando como gestor de
+                    <strong class="text-white">Desenvolvedor Full Stack</strong>,
+                    atualmente trabalhando no <strong class="text-white">Lake Side Apart</strong> atuando como gestor de
                     equipe, coordenando tarefas, projetos e treinamentos,
                     além de integrar APIs e gerenciar infraestrutura na <strong class="text-white">Oracle Cloud
                         Infrastructure (OCI) </strong>.
