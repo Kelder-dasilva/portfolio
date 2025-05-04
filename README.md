@@ -27,7 +27,7 @@ Este repositório reúne meu portfólio profissional como **Desenvolvedor Full S
 
 ### Pré-requisitos:
 - Node.js
-- Vite (opcional)
+- Vite
 - Npm ou Yarn
 
 ### Rodando:
