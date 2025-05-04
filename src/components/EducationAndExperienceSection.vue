@@ -1,6 +1,80 @@
 <template>
   <section class="p-4 md:p-8">
     <div class="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-8">
+
+      <div class="col-span-1 ">
+        <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
+          style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
+          <span class="font-brand-primary text-green-700">Exp</span>eriência
+        </h2>
+
+        <ul>
+          <li class="relative border-b border-l border-gray-700 py-4 pl-4 last:border-b-0">
+            <div class=" absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
+              <span
+                class="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
+                2022 - Atualmente
+              </span>
+              <span class="text-xs font-medium text-gray-200">Lake Side Apart Hotel</span>
+            </div>
+            <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
+              <h2 class="font-bold text-white">Gestor de Equipe | Desenvolvedor Full Stack</h2>
+              <p class="text-gray-300">
+                Responsável pela gestão de tarefas, projetos e treinamentos, além do desenvolvimento e manutenção de
+                sistemas internos para áreas
+                como compras, contabilidade e RH. Realizo integrações com APIs (ERP Sankhya, AWS S3, OCI) e gerencio a
+                infraestrutura na Oracle Cloud Infrastructure (OCI). Também participo de reuniões técnicas, levantamento
+                de requisitos e implemento melhorias contínuas em processos e sistemas.
+              </p>
+              <ul>
+                <li class=" text-gray-300">
+                  <strong class="text-stone-200">Frontend:</strong> VueJs, Bootstrap, Tailwind, Pinia
+                </li>
+                <li class=" text-gray-300">
+                  <strong class="text-stone-200">Backend:</strong> Java, Spring, OracleSql
+                </li>
+                <li class="text-gray-300">
+                  <strong class="text-stone-200">CMS:</strong> WordPress
+                </li>
+                <li class="text-gray-300">
+                  <strong class="text-stone-200">Sistemas Operacionais:</strong> Ubuntu, Oracle Linux
+                </li>
+                <li class="text-gray-300">
+                  <strong class="text-stone-200">DevOps / Infra:</strong> Noções de DevOps, configuração e automação
+                  Linux, Web Servers (Tomcat)
+                </li>
+              </ul>
+            </div>
+          </li>
+
+          <li class="relative border-b border-l border-gray-700 py-4 pl-4 last:border-b-0">
+            <div class=" absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
+              <span
+                class="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
+                2021 - 2022
+              </span>
+              <span class="text-xs font-medium text-gray-200">SASW Tecnologia</span>
+            </div>
+            <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
+              <h2 class="font-bold text-white">Estagiário</h2>
+              <p class=" text-gray-300">
+                Trabalhando com JavaScript, Java, Bootstrap e SQL Server no
+                suporte e manutenção de sistemas internos, como controle de ponto e RH, além de realizar atualizações em
+                componentes e funcionalidades da empresa.
+              </p>
+              <ul>
+                <li class=" text-gray-300">
+                  <strong class="text-stone-200">Frontend:</strong> React, Bootstrap, Axios, etc
+                </li>
+                <li class=" text-gray-300">
+                  <strong class="text-stone-200">Backend:</strong> Java, SqlServer
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+
       <div class="col-span-1 ">
         <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
           style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
@@ -18,7 +92,7 @@
             </div>
 
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
-              <h2 class="font-bold text-white">Tecnólogo em Ánalise e Des. de Sistemas</h2>
+              <h2 class="font-bold text-white">Tecnólogo em Análise e Des. de Sistemas</h2>
               <p class=" text-gray-300">Aprofundei meus
                 conhecimentos teóricos e práticos sobre desenvolvimento de software, arquitetura de sistemas e
                 infraestrutura de aplicações. Durante esse período, tive contato com fundamentos sólidos da programação,
@@ -72,68 +146,6 @@
         </ul>
       </div>
 
-      <div class="col-span-1 ">
-        <h2 class="mb-4 font-brand-primary text-2xl font-extrabold tracking-tight text-stone-200 sm:text-3xl"
-          style="text-shadow: rgba(0, 0, 0, 0.5) 10px 10px 10px, rgba(0, 0, 0, 0.4) 20px 20px 20px, rgba(0, 0, 0, 0.1) 30px 30px 30px;">
-          <span class="font-brand-primary text-green-700">Exp</span>eriência
-        </h2>
-
-        <ul>
-          <li class="relative border-b border-l border-gray-700 py-4 pl-4 last:border-b-0">
-            <div class=" absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
-              <span
-                class="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
-                2022 - Atualmente
-              </span>
-              <span class="text-xs font-medium text-gray-200">Lake Side Apart Hotel</span>
-            </div>
-            <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
-              <h2 class="font-bold text-white">Gestor de Equipe | Desenvolvedor Full Stack</h2>
-              <p class="text-gray-300">
-                Responsável pela gestão de tarefas, projetos e treinamentos, além do desenvolvimento e manutenção de
-                sistemas internos para áreas
-                como compras, contabilidade e RH. Realizo integrações com APIs (ERP Sankhya, AWS S3, OCI) e gerencio a
-                infraestrutura na Oracle Cloud Infrastructure (OCI). Também participo de reuniões técnicas, levantamento
-                de requisitos e implemento melhorias contínuas em processos e sistemas.
-              </p>
-              <ul>
-                <li class=" text-gray-300">
-                  <strong class="text-stone-200">Frontend:</strong> VueJs, Bootstrap, Tailwind, Pinia
-                </li>
-                <li class=" text-gray-300">
-                  <strong class="text-stone-200">Backend:</strong> Java, Spring, OracleSql
-                </li>
-              </ul>
-            </div>
-          </li>
-
-          <li class="relative border-b border-l border-gray-700 py-4 pl-4 last:border-b-0">
-            <div class=" absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
-              <span
-                class="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
-                2021 - 2022
-              </span>
-              <span class="text-xs font-medium text-gray-200">SASW Tecnologia</span>
-            </div>
-            <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
-              <h2 class="font-bold text-white">Estagiário</h2>
-              <p class=" text-gray-300">
-                Trabalhando com JavaScript, Java, Bootstrap e SQL Server no
-                suporte e manutenção de sistemas internos, como controle de ponto e RH, além de realizar atualizações em
-                componentes e funcionalidades da empresa.
-              </p>
-              <ul>
-                <li class=" text-gray-300">
-                  <strong class="text-stone-200">Frontend:</strong> React, Bootstrap, Axios, etc
-                </li>
-                <li class=" text-gray-300">
-                  <strong class="text-stone-200">Backend:</strong> Java, SqlServer
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-      </div>
     </div>
   </section>
 </template>

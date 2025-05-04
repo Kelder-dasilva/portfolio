@@ -5,7 +5,7 @@
                 <p class="prose prose-sm whitespace-pre-line text-gray-200 sm:prose-base p-6">
                     Meu nome é Kelder da Silva, sou formado em Análise e Desenvolvimento de Sistemas e atuo
                     como Desenvolvedor Full Stack.
-                    Tenho experiência com <strong class="text-white">Java, Spring Boot, Vue.js, Tailwind, Bootstrap e OracleSQL</strong>.
+                    Tenho experiência com <strong class="text-white">Java, Spring Boot, Vue.js, Tailwind, Bootstrap e OracleSQL, Wordpress, Linux(Ubuntu, Oracle linux), etc</strong>.
                     <br>
                     <br>
                     Fora do trabalho gosto de fazer trilhas, jogar alguns games, estudar sobre Programação, ver eventos
