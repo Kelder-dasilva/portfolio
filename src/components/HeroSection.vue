@@ -1,13 +1,15 @@
 <template>
     <section class="relative w-full bg-gray-900 text-white overflow-hidden px-4 font-mono">
-        <div class="flex flex-col md:flex-row items-center justify-center gap-8 max-w-6xl mx-auto">
+        <div class="flex flex-col md:flex-row items-center justify-center max-w-6xl mx-auto">
 
-            <div class="max-w h-120 bg-gray-900 rounded-2xl overflow-hidden shadow-2xl">
-                <img src="/src/assets/heroSectionImg2.jpg"
-                    alt="Foto de perfil" class="w-full h-full object-cover" />
+            <!-- <div class="flex max-w h-120 bg-gray-900 rounded-2xl overflow-hidden shadow-2xl"> -->
+            <div class="w-full h-[-280px] md:h-[520px] bg-gray-900 rounded-2xl overflow-hidden shadow-2xl">
+                <img src="/src/assets/heroSectionImg2.jpg" alt="Foto de perfil" class="w-full h-full object-cover" />
             </div>
 
-            <div class="bg-gray-700 p-8 rounded-2xl shadow-2xl md:ml-[-60px] max-w-md w-full md:mt-0">
+            <div class="relative bg-gray-700 p-3 md:p-8 rounded-2xl shadow-2xl md:ml-[-60px] max-w-md w-full -mt-20 md:mt-0">
+            <!-- <div class="bg-gray-700 p-8 rounded-2xl shadow-2xl max-w-md w-full -mt-20 md:mt-0 md:ml-[-60px]"> -->
+
                 <div class="mb-2 flex w-full flex-wrap items-center gap-y-2">
                     <h1 class="mr-4 w-max text-3xl font-black text-white">...</h1>
                     <div class="flex gap-x-6 sm:gap-x-3">
@@ -36,11 +38,6 @@
                     </div>
                 </div>
 
-                <!-- <p class="prose mb-4 text-gray-200">
-                    <strong class="text-white">Desenvolvedor Full Stack</strong>,
-                    atualmente trabalhando na <strong class="text-white">Estrutural Empreendimentos</strong> atuando como dev Java (Spring Boot), VueJS e gerenciamento de infraestrutura na <strong class="text-white">Oracle Cloud
-                        Infrastructure (OCI) </strong>.
-                </p> -->
                 <p class="prose mb-4 text-gray-200">
                     <strong class="text-white"> Desenvolvedor Full Stack </strong>
                     com experiência no desenvolvimento de aplicações escaláveis utilizando
@@ -53,7 +50,7 @@
 
                 <div class="flex space-x-2">
                     <a class="flex rounded-full border-2  bg-stone-900 px-4 py-2 text-sm font-medium text-white shadow-md outline-none hover:bg-stone-800 focus:ring-2  focus:ring-offset-2 focus:ring-offset-stone-800 border-green-800 focus:ring-green-800"
-                        href="/public/assets/Kelder-da-Silva-Curriculo.pdf" download="Curriculo-Kelder.pdf">
+                        href="/assets/Kelder-da-Silva-Curriculo.pdf" download="Curriculo-Kelder.pdf">
                         Currículo
                     </a>
 
