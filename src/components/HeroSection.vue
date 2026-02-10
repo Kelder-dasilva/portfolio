@@ -2,14 +2,14 @@
     <section class="relative w-full bg-gray-900 text-white overflow-hidden px-4 font-mono">
         <div class="flex flex-col md:flex-row items-center justify-center gap-8 max-w-6xl mx-auto">
 
-            <div class="max-w-xl h-120 bg-gray-900 rounded-2xl overflow-hidden shadow-2xl">
-                <img src="https://i.ytimg.com/vi/Cqv67O9toHo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAJ_hVwPUGuazLSw2gt-h9eGnDidg"
+            <div class="max-w h-120 bg-gray-900 rounded-2xl overflow-hidden shadow-2xl">
+                <img src="/src/assets/heroSectionImg2.jpg"
                     alt="Foto de perfil" class="w-full h-full object-cover" />
             </div>
 
             <div class="bg-gray-700 p-8 rounded-2xl shadow-2xl md:ml-[-60px] max-w-md w-full md:mt-0">
                 <div class="mb-2 flex w-full flex-wrap items-center gap-y-2">
-                    <h1 class="mr-4 w-max text-3xl font-black text-white">Kelder da Silva</h1>
+                    <h1 class="mr-4 w-max text-3xl font-black text-white">...</h1>
                     <div class="flex gap-x-6 sm:gap-x-3">
                         <a aria-label="Github"
                             class="-m-2 rounded-md p-2 text-gray-200 hover:text-white focus:outline-none focus:ring-2 focus:ring-white sm:-m-1.5 sm:p-1.5"
@@ -36,23 +36,24 @@
                     </div>
                 </div>
 
-                <p class="prose mb-4 text-gray-200">
+                <!-- <p class="prose mb-4 text-gray-200">
                     <strong class="text-white">Desenvolvedor Full Stack</strong>,
-                    atualmente trabalhando no <strong class="text-white">Lake Side Apart</strong> atuando como gestor de
-                    equipe, coordenando tarefas, projetos e treinamentos,
-                    além de integrar APIs e gerenciar infraestrutura na <strong class="text-white">Oracle Cloud
+                    atualmente trabalhando na <strong class="text-white">Estrutural Empreendimentos</strong> atuando como dev Java (Spring Boot), VueJS e gerenciamento de infraestrutura na <strong class="text-white">Oracle Cloud
                         Infrastructure (OCI) </strong>.
-                </p>
-
-                <p class="prose mb-4 text-gray-200">No meu tempo livre, gosto de jogar <strong
-                        class="text-white">RPGs</strong>,
-                    me atualizar sobre a área de <strong class="text-white">Programação</strong>, ler alguns livros,
-                    etc.
+                </p> -->
+                <p class="prose mb-4 text-gray-200">
+                    <strong class="text-white"> Desenvolvedor Full Stack </strong>
+                    com experiência no desenvolvimento de aplicações escaláveis utilizando
+                    <strong class="text-white">Java (Spring Boot), VueJS, Oracle, etc</strong>. Atuação em
+                    <strong class="text-white">arquitetura, manutenção e deploy de sistemas</strong>, com
+                    gerenciamento de
+                    infraestrutura em
+                    <strong class="text-white">Oracle Cloud Infrastructure (OCI)</strong>.
                 </p>
 
                 <div class="flex space-x-2">
                     <a class="flex rounded-full border-2  bg-stone-900 px-4 py-2 text-sm font-medium text-white shadow-md outline-none hover:bg-stone-800 focus:ring-2  focus:ring-offset-2 focus:ring-offset-stone-800 border-green-800 focus:ring-green-800"
-                        href="/assets/Curriculo.pdf" download="Curriculo-Kelder.pdf">
+                        href="/public/assets/Kelder-da-Silva-Curriculo.pdf" download="Curriculo-Kelder.pdf">
                         Currículo
                     </a>
 

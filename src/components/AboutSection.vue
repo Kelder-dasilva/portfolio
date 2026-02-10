@@ -3,17 +3,24 @@
         <div class="flex flex-col gap-8 max-w-6xl mx-auto">
             <div class="w-full max-w-6xl bg-gray-700 rounded-2xl overflow-hidden shadow-2xl">
                 <p class="prose prose-sm whitespace-pre-line text-gray-200 sm:prose-base p-6">
-                    Meu nome é Kelder da Silva, sou formado em Análise e Desenvolvimento de Sistemas e atuo
-                    como Desenvolvedor Full Stack.
-                    Tenho experiência com <strong class="text-white">Java, Spring Boot, Vue.js, Tailwind, Bootstrap e OracleSQL, Wordpress, Linux(Ubuntu, Oracle linux), etc</strong>.
-                    <br>
-                    <br>
-                    Fora do trabalho gosto de fazer trilhas, jogar alguns games, estudar sobre Programação, ver eventos
-                    de carros, etc. Atualmente estou me dedicando para
-                    pós-graduação em <strong class="text-white">Engenharia de Software</strong> e buscando novos
-                    desafios
-                    para adquirir mais conhecimentos e experiência na área.
+                    Meu nome é <strong class="text-white">Kelder da Silva</strong>, sou graduado em
+                    <strong class="text-white">Análise e Desenvolvimento de Sistemas</strong> e atuo
+                    como <strong class="text-white">Desenvolvedor Full Stack</strong>.
+
+                    Possuo experiência no desenvolvimento de aplicações utilizando
+                    <strong class="text-white">
+                        Java, Spring Boot, Vue.js, Tailwind CSS, Bootstrap, Oracle SQL, WordPress</strong>,
+                    além de vivência em ambientes <strong class="text-white">Linux</strong>
+                    (Ubuntu e Oracle Linux).
+
+                    <br><br>
+                    Atualmente, estou em processo de especialização por meio de uma
+                    <strong class="text-white">pós-graduação em Engenharia de Software</strong>,
+                    com foco em aprimorar boas práticas, arquitetura de sistemas e qualidade
+                    de software, além de buscar novos desafios que contribuam para minha
+                    evolução profissional.
                 </p>
+
 
                 <ul class="grid grid-cols-1 gap-4 sm:grid-cols-2 p-8">
                     <li class="col-span-1 flex items-start gap-x-2">
@@ -78,8 +85,8 @@
                                 d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3.75h.008v.008h-.008v-.008Zm0 3h.008v.008h-.008v-.008Zm0 3h.008v.008h-.008v-.008Z">
                             </path>
                         </svg>
-                        <span class="text-xs font-bold text-white sm:text-sm">Trabalho:</span>
-                        <span class=" text-xs text-gray-200 sm:text-sm">Lake Side Apart</span>
+                        <span class="text-xs font-bold text-white sm:text-sm">Trabalho Atual:</span>
+                        <span class=" text-xs text-gray-200 sm:text-sm">Estrutural Empreendimentos</span>
                     </li>
                 </ul>
             </div>

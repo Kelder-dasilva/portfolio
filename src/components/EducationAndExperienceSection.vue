@@ -13,18 +13,51 @@
             <div class=" absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
               <span
                 class="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
-                2022 - Atualmente
+                Outubro 2025 - Atualmente
               </span>
-              <span class="text-xs font-medium text-gray-200">Lake Side Apart Hotel</span>
+              <span class="text-xs font-medium text-gray-200">Estrutural Empreendimentos</span>
+            </div>
+            <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
+              <h2 class="font-bold text-white">Desenvolvedor Full Stack</h2>
+              <p class="text-gray-300">
+                Responsável pelo desenvolvimento, manutenção e evolução de sistemas internos corporativos, voltados à
+                gestão de equipes e cadastro de pessoas, com atuação em integrações via APIs utilizando AWS S3 e Oracle
+                Cloud Infrastructure (OCI), além do gerenciamento e sustentação da infraestrutura em nuvem.
+              </p>
+              <ul>
+                <li class=" text-gray-300">
+                  <strong class="text-stone-200">Frontend:</strong> VueJs, Bootstrap
+                </li>
+                <li class=" text-gray-300">
+                  <strong class="text-stone-200">Backend:</strong> Java, Spring, OracleSql
+                </li>
+                <li class="text-gray-300">
+                  <strong class="text-stone-200">Sistemas Operacionais:</strong> Ubuntu, Oracle Linux
+                </li>
+                <li class="text-gray-300">
+                  <strong class="text-stone-200">DevOps / Infra:</strong> Noções de DevOps, Web Servers (Tomcat)
+                </li>
+              </ul>
+            </div>
+          </li>
+
+          <li class="relative border-b border-l border-gray-700 py-4 pl-4 last:border-b-0">
+            <div class=" absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
+              <span
+                class="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
+                2022 - Julho 2025
+              </span>
+              <span class="text-xs font-medium text-gray-200">Lake Side Apart</span>
             </div>
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
               <h2 class="font-bold text-white">Gestor de Equipe | Desenvolvedor Full Stack</h2>
               <p class="text-gray-300">
-                Responsável pela gestão de tarefas, projetos e treinamentos, além do desenvolvimento e manutenção de
-                sistemas internos para áreas
-                como compras, contabilidade e RH. Realizo integrações com APIs (ERP Sankhya, AWS S3, OCI) e gerencio a
-                infraestrutura na Oracle Cloud Infrastructure (OCI). Também participo de reuniões técnicas, levantamento
-                de requisitos e implemento melhorias contínuas em processos e sistemas.
+                Responsável pela gestão de tarefas, projetos e treinamentos, bem como pelo desenvolvimento, manutenção e
+                evolução de sistemas internos utilizados por áreas como Compras, Contabilidade e Recursos Humanos.
+                Atuo na integração de sistemas via APIs, incluindo ERP Sankhya, AWS S3 e Oracle Cloud Infrastructure
+                (OCI), além do gerenciamento de infraestrutura em nuvem.
+                Participo ativamente de reuniões técnicas, levantamento e análise de requisitos e da implementação de
+                melhorias contínuas em processos e sistemas.
               </p>
               <ul>
                 <li class=" text-gray-300">
