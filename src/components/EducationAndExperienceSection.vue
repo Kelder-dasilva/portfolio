@@ -18,7 +18,7 @@
               <span class="text-xs font-medium text-gray-200">Estrutural Empreendimentos</span>
             </div>
             <div class="prose prose-sm flex flex-col pt-10 prose-ul:list-none">
-              <h2 class="font-bold text-white">Desenvolvedor Full Stack</h2>
+              <h2 class="font-bold text-white">Desenvolvedor Full Stack Pleno</h2>
               <p class="text-gray-300">
                 Responsável pelo desenvolvimento, manutenção e evolução de sistemas internos corporativos, voltados à
                 gestão de equipes e cadastro de pessoas, com atuação em integrações via APIs utilizando AWS S3 e Oracle

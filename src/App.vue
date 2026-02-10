@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex min-h-screen w-screen justify-center bg-striped-background bg-neutral-950 bg-cover bg-no-repeat p-0 sm:p-6">
+    class="flex justify-center bg-striped-background bg-neutral-950 bg-cover bg-no-repeat p-0 sm:p-6">
     <div
       class="flex min-h-full w-full max-w-screen-xl grow flex-col items-start overflow-hidden border border-stone-900 bg-gray-900 shadow-strong sm:rounded-3xl animate-page-in">
 
